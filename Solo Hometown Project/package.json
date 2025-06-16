@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s039qplcbg",
+  "description": "https://scrimba.com/s039qplcbg/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
